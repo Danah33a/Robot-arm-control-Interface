@@ -1,0 +1,56 @@
+<!DOCTYPE html> 
+<html> 
+
+	<head> 
+
+<title> Control Interface </title> 
+
+	</head> 
+
+
+	<body> 
+
+<div style="background-color:lightblue">
+
+<h1 align="center"> Robot Arm Control Interface </h1> 
+</div> 
+
+<hr> 
+<hr> 
+
+<h3 align="left"> <b> Engine 1:</b> </h3> &nbsp;  &nbsp; <div class="main"> <input type="range" min="0" max="200" value="100"> </div> 
+
+
+<hr>
+<hr> 
+
+
+<h3 align="left"> <b> Engine 2:</b> </h3> &nbsp;  &nbsp; <div class="main"> <input type="range" min="0" max="200" value="100"> </div> 
+
+<hr> 
+<hr> 
+
+<h3 align="left"> <b> Engine 3:</b> </h3> &nbsp;  &nbsp; <div class="main"> <input type="range" min="0" max="200" value="100"> </div> 
+ 
+<hr> 
+<hr> 
+
+<h3 align="left"> <b> Engine 4:</b> </h3> &nbsp;  &nbsp; <div class="main"> <input type="range" min="0" max="200" value="100"> </div> 
+
+<hr> 
+<hr> 
+
+<h3 align="left"> <b> Engine 5:</b> </h3> &nbsp;  &nbsp; <div class="main"> <input type="range" min="0" max="200" value="100"> </div> 
+
+<hr> 
+<hr> 
+
+
+<input type="submit" value="Save">  &nbsp;  &nbsp; <input type="submit" value="Run">
+
+</body> 
+
+  
+
+
+</html> 
